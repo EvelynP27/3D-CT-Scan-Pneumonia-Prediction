@@ -7,7 +7,7 @@ This repository contains a machine-learning project focused on building a 3D con
 The dataset used for this project consists of 200 samples of lung CT scans. The dataset was obtained from [MosMedData: Chest CT Scans with COVID-19 Related Findings](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1)
 
 ## Approach
-- Importing data: Reading, normmalizing, and resizing images
+- Importing data: Reading, normalizing, and resizing images
 - Model training: Training the selected algorithm on the preprocessed dataset.
 - Model evaluation: Assessing the performance of the trained model using val_accuracy
 
